@@ -1,2 +1,2 @@
-# pvy1
-programové vybavení-1.ročník
+# PVY1
+Programové Vybavení-1.ročník
